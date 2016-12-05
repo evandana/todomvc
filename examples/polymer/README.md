@@ -1,3 +1,7 @@
+# Polymer Learning Base
+
+Use this as a starting point for building out the ToDoMVC Polymer solution. It is set up with the appropriate templates, styling, and file structure for ease of completion.
+
 # Polymer TodoMVC Example
 
 > Polymer is a new type of library for the web, built on top of Web Components, and designed to leverage the evolving web platform on modern browsers.
